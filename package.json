@@ -1,0 +1,23 @@
+{
+  "name": "xpeaw",
+  "version": "0.0.1",
+  "description": "unreliable yani can",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "unreliable"
+  ]
+}

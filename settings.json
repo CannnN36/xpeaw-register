@@ -1,0 +1,60 @@
+{
+    "bot": {
+        "prefix": ".",
+        "owner": "434979794912935947",
+        "footer": "unreliable#1000 ❤️ xpeaw tanımam etmem",
+
+        "waitLimit": 6,
+        "botSesKanalı": "BOT SES KANALI"
+    },
+
+    "server": {
+        "tag": "TAGIN",
+        "isimyas": true,
+        "tagsıztag": "TAGSIZLAR İCİN TAG",
+        "kurallar": "KURALLAR KANAL ID",
+        "sunucuId": "SUNUCU ID",
+        "chat": "CHAT KANAL ID"
+    },
+
+    "register": {
+        "şüpheli": "SUSPİCİOUS - ŞÜPHELİ ROLÜ ID",
+        "unregister": ["KAYITSIZ ROLÜ ID"],
+        "tagrol": "TAGLI ROL ID",
+        "welcome": "WELCOME KANAL ID",
+        "registery": "KAYITCI ROL ID",
+        "man": ["ERKEK ROL ID","ISTERSEN ARTTIR BOYLE"],
+        "woman": ["KIZ ROL ID","ISTERSEN ARTTIR BOYLE"],
+        "isimler": {
+            "erkek": "GORUNECEK OLAN ID",
+            "kız": "GORUNECEK OLAN ID"
+        }
+    },
+
+    "logs": {
+        "suspiciouslog": "ŞÜPHELİ HESAP LOG ID",
+        "taglog": "TAG LOG ID"
+    },
+
+"emoji": {
+
+        "sayı": {
+            "bir": "1",  
+            "iki": "2",
+            "üç": "3",
+            "dört": "4",
+            "beş": "5",
+            "altı": "6",
+            "yedi": "7",
+            "sekiz": "8",
+            "dokuz": "9",
+            "sıfır": "9"
+        },
+
+        "diğer": {
+            "onay": ":ballot_box_with_check:",
+            "iptal": ":name_badge:",
+            "nokta": ":record_button:"
+        }
+    }
+}
